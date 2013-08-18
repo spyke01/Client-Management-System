@@ -1,0 +1,61 @@
+//================================================
+//
+// Fast Track Sites Program License
+// Revision 07.11.08
+//
+//================================================
+
+This license file covers all Fast Track Sites Software which is protected under the Fast Track Sites Program License (FTSPL). 
+
+By downloading and installing this application you agree to all of the following items found herein.
+
+Changes To This Document:
+------------------------------------------------
+Fast Track Sites reserves the right to change the items contained within this document at any time. Fast Track Sites is not responsible for notifying users of changes to this license, and it is the responsibility of the user to track changes in this document.
+
+(Re)Distribution:
+------------------------------------------------
+I. Free Verion
+This program may only be distributed or redistributed under authorization from Fast Track Sites by emailing or phoning the company, and getting signed written permission from the company owner or representatives thereof. This does not include hosting of the zip files containing the application, however if the application is being hosted to download from your server, a reference to Fast Track Sites as the author of the program as well as a link back must be given.
+
+II. Professional Verion
+This program may only be distributed or redistributed under authorization from Fast Track Sites by emailing or phoning the company, and getting signed written permission from the company owner or representatives thereof. A resellers license as well as costs and keys may be purchased at this time. Fast Track Sites will also inform you of how to track users and how to determine that your clients are using the applications in a legal manner. 
+
+Licensing:
+------------------------------------------------
+I. Free Verion
+This program may be used on any number of sites as long as all other statements herein are satisfied. The free version of each program may be freely distributed as long as all copyright notices and other statements within this document are satisfied. 
+
+II. Professional Verion
+This program may be licensed to a company for multiple use by emailing or phoning the company, and getting signed written permission from the company owner or representatives thereof.
+
+III. Purchase Does Not Constitue Ownership
+By purchasing the sotware, you receive a license number, which constitutes the ability to legally use the professional version of the software. However, this does not constitute ownership of the software or any part of it's code whatsoever.
+
+Changes to Software:
+------------------------------------------------
+This program may be changed from its original form by emailing or phoning the company, and getting signed written permission from the company owner or representatives thereof. If written authorization is given the original licensing agreements must remain intact, and all FTS licenses will still apply as described above and below and also in the letter sent. All original copyright information must remain intact, and the changes must not infringe on other statements made herein. 
+
+Recreation of Software:
+------------------------------------------------
+This program may be not be changed or copied in any form unless by emailing or phoning the company, and getting signed written permission from the company owner or representatives thereof. If written authorization is given the original licensing agreements must remain intact, and all FTS licenses will still apply as described above and below and also in the letter sent. 
+
+Copyright, Version, and Powered By Information:
+------------------------------------------------
+The copyright notice, version number to include the version function and call home feature, and powered by notice shall not be changed, removed, or tampered with partially or as a whole in any form or fashion. Any attempt to do so will result in a breach of contract. 
+
+Call Home Feature:
+------------------------------------------------
+Fast Track Sites uses a call home feature to track illegal use and redistribution of its software, this feature sends the following information to the FTS Server: serial number, version number, location of the program. This feature does not install any backdoor accounts or give Fast Track Sites access to your server, no personal information is collected. Removal of this feature will result in a breach of contract.
+
+Liability:
+------------------------------------------------
+Fast Track Sites will not be liable to you for any special, indirect, consequential, punitive, or incidental damages (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product. Your entire liability and your exclusive remedy shall be no more than the amount paid for the particular product. 
+
+Breach of Contract:
+------------------------------------------------
+A Breach of Contract, known as a BC from hereforth, occurs when any of the statements made in this document are broken by you, the end user. A BC may subject the company and/or individuals responsible for the BC to be punishable under law. The persons responsible will be notified in writing and by phone of the BC with an explanation of the BC and how to ammend the breakage. Options may be given for a license or other items. 
+
+A BC most often occurs when copyright, version, or powered by information is removed. In situations like these, restoration of the removed items will no longer cause a BC unless other items have caused a BC.
+
+If the BC is not resolved within 3 business days a lawsuit may be made against the company and/or individuals that made the BC. The persons responsible will be liable for all fees that Fast Track Sites incurs during the pursuit of a BC. This includes but is not limited to the following: legal fees, court costs, travel and boarding costs, loss of profits, as well as time and effort of pursuing the BC to its end.
